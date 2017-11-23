@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "description": "wow",
+  "homepage": "https://github.com/liu2080019/resizeMixin.git#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "resizeMixin",
+  "peerDependencies": {
+    "react": "^15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liu2080019/resizeMixin.git"
+  },
+  "version": "1.0.0"
+}
